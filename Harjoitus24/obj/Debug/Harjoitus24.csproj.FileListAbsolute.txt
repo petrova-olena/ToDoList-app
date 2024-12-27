@@ -1,0 +1,10 @@
+C:\Users\Omistaja\source\repos\C sharp\WinFormsApp24\Harjoitus24\bin\Debug\Harjoitus24.exe.config
+C:\Users\Omistaja\source\repos\C sharp\WinFormsApp24\Harjoitus24\bin\Debug\Harjoitus24.exe
+C:\Users\Omistaja\source\repos\C sharp\WinFormsApp24\Harjoitus24\bin\Debug\Harjoitus24.pdb
+C:\Users\Omistaja\source\repos\C sharp\WinFormsApp24\Harjoitus24\obj\Debug\Harjoitus24.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\C sharp\WinFormsApp24\Harjoitus24\obj\Debug\Harjoitus24.ToDoList.resources
+C:\Users\Omistaja\source\repos\C sharp\WinFormsApp24\Harjoitus24\obj\Debug\Harjoitus24.Properties.Resources.resources
+C:\Users\Omistaja\source\repos\C sharp\WinFormsApp24\Harjoitus24\obj\Debug\Harjoitus24.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\C sharp\WinFormsApp24\Harjoitus24\obj\Debug\Harjoitus24.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\C sharp\WinFormsApp24\Harjoitus24\obj\Debug\Harjoitus24.exe
+C:\Users\Omistaja\source\repos\C sharp\WinFormsApp24\Harjoitus24\obj\Debug\Harjoitus24.pdb
